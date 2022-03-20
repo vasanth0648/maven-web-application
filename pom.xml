@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	      <url>http://65.0.99.16:8081/repository/vasanth-release/</url>
+	      <url>http://3.108.237.84:8081/repository/vasanth-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://65.0.99.16:8081/repository/vasanth-snapshot/</url>
+	      <url>http://3.108.237.84:8081/repository/vasanth-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
